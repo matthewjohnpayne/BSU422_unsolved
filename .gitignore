@@ -1,0 +1,9 @@
+# Ignore all directories with the following pattern ...
+**/.ipynb_checkpoints/
+**/__pycache__/
+.idea/
+
+# Generated media and data products
+*.mp4
+*.png
+*.dat
